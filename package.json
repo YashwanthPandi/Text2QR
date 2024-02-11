@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "qr-image": "^3.2.0"
+  },
+  "name": "text2qr",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yashwanth Pandi",
+  "license": "ISC"
+}
